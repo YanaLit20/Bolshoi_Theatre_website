@@ -249,3 +249,28 @@ a {
 
 }
 
+/*
+@media screen and (max-width: 900px) {
+    #fixPanel {
+
+        width: 10px;
+    }
+
+    #fixPanel:hover {
+
+        display: inline;
+        width: 150px;
+        z-index: 1;
+    }
+
+}
+
+*/
+/*
+@media screen and (device-width: 1280px) {
+    #fixPanel {
+        /*overflow-x: hidden;
+        display: inline;
+    }
+
+}*/
